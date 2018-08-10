@@ -20,7 +20,7 @@ Open your web browser and go to [http://localhost:3000](http://localhost:3000) t
 
 ## Sync tool
 
-Go the the tool directory:
+Go to the tool directory:
 
     $ cd private/sync
 
